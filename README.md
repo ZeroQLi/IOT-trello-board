@@ -1,3 +1,7 @@
+### DISCLAIMER
+This repo is still a work in progress, i will cleanup and put the working code files once i finish the project but till then
+this is bascially my public pastebin for the code :)
+
 # IOT-trello-board
 code for my @hackclub winter hardware wonderland project
 
