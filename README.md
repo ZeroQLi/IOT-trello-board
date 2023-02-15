@@ -13,4 +13,4 @@ I love trello and its kanban board methodology. So mch so that i'm making a phys
 
 The actual hardware will be using a raspbery pi kitted out with (TBD)
 
-### check out my proposal at https://github.com/hackclub/winter/blob/main/ZeroQLi.md or using my [winterlings](https://winterlings.dino.icu/p/ZeroQLi) site
+### check out my proposal at https://github.com/hackclub/winter/blob/main/ZeroQLi.md or using my [winterlings](https://winterlings.dino.icu/p/ZeroQLi) page
